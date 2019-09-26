@@ -1,3 +1,4 @@
 this is feature a
 feature a new function1
 conflict func1
+conflict func1 in feature-a
